@@ -1,5 +1,5 @@
 
-# Int
+# URL Shortener
 
 The 'URL Shortener' has been built using Nodejs and express.
 This is a simple URL Shortener which can efficiently Shorten Long URLs.
