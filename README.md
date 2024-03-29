@@ -12,7 +12,7 @@ This is a simple URL Shortener which can efficiently Shorten Long URLs.
 To deploy this project run
 
 ```bash
-  > clone https://github.com/ShreyasNaik125/URL_Shortener
+  > git clone https://github.com/ShreyasNaik125/URL_Shortener
   > cd URL_Shortener
   > node index.js
 ```
